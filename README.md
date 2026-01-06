@@ -14,7 +14,7 @@
 
 ### AI / Vector Databases / LLM Stack
 
-- Milvus  
-- ChromaDB  
-- LangChain  
-- watsonx  
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=milvus&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![IBM watsonx](https://img.shields.io/badge/watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
