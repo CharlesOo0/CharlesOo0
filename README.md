@@ -2,15 +2,15 @@
 
 ### Languages & Frontend / Backend
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,php,java,kotlin&perline=7)](https://github.com/satmyx)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,php,java,kotlin&perline=7)](https://github.com/CharlesOo0)
 
 ### Frameworks & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=vue,angular,bootstrap,django,flask,pytorch&perline=7)](https://github.com/satmyx)
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,bootstrap,django,flask,pytorch&perline=7)](https://github.com/CharlesOo0)
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&perline=7)](https://github.com/satmyx)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&perline=7)](https://github.com/CharlesOo0)
 
 ### AI / Vector Databases / LLM Stack
 
